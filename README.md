@@ -1,4 +1,5 @@
-## Olá pessoal 👋
+## 🏗⚠️ README EM CONSTRUÇÃO ⚠️🏗
+##       ⚠️ USE CAPACETE ⚠️
 
 Aqui estão algumas idéias para você começar:
 
